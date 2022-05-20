@@ -1,0 +1,7 @@
+.game-bar {
+  height: 30px;
+  padding: 10px;
+  font-size: 25px;
+  border: 3px solid red;
+  font-family: monospace;
+}

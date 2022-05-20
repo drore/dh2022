@@ -1,0 +1,14 @@
+.highlight {
+  color: red;
+}
+
+.letter {
+  cursor: pointer;
+  font-size: 28px;
+}
+
+.letter-box {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
